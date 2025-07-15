@@ -19,7 +19,7 @@ A sleek, modern website for a German staffing company — simple, bold, and stra
 
 
 ### 🌐 [dimitriskgm.me](https://dimitriskgm.me)
-Personal Portfolio with dark and light mode, smooth animations and a mobilde friendly design.
+Personal Portfolio with dark and light mode, smooth animations and a mobilde friendly design.  
 *Built with Angular, Bootstrap, Javascript and Font Awesome.*
 <!--
 **CursedDK/CursedDK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

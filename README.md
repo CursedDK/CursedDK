@@ -15,12 +15,15 @@ I'm a full-stack developer mostly working with **C#** and **TypeScript (Angular)
 
 ### 🌐 [klimbimgmbh.de](https://klimbimgmbh.de)
 A sleek, modern website for a German staffing company — simple, bold, and straight to the point, with smooth animations and a mobile-friendly design.  
-*Built with Angular, Bootstrap, Node.js, Javascript and Font Awesome.*
-
+*Tech-Stack: Angular, Bootstrap, Node.js, Javascript and Font Awesome.*
 
 ### 🌐 [dimitriskgm.me](https://dimitriskgm.me)
 Personal Portfolio with dark and light mode, smooth animations and a mobilde friendly design.  
-*Built with Angular, Bootstrap, Javascript and Font Awesome.*
+*Tech-Stack: Angular, Bootstrap, Javascript and Font Awesome.*
+
+### 🤖 [Kfz Appointment Crawler](https://github.com/CursedDK/CrawlerKFZZulassung)  
+An automated bot with a Python GUI that checks for available vehicle registration appointments in Nürnberg and books them using Playwright. Supports multiple users, email rotation, and retry logic.
+*Tech-Stack: Python, Playwright, Tkinter, Logging, Threading*
 <!--
 **CursedDK/CursedDK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

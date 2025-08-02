@@ -21,7 +21,7 @@ A sleek, modern website for a German staffing company — simple, bold, and stra
 Personal Portfolio with dark and light mode, smooth animations and a mobilde friendly design.  
 *Tech-Stack: Angular, Bootstrap, Javascript and Font Awesome.*
 
-### 🤖 [Kfz Appointment Crawler](https://github.com/CursedDK/CrawlerKFZZulassung)  
+### 🤖 Car Registration Appointment Catcher (Crawler)
 An automated bot with a Python GUI that checks for available vehicle registration appointments in Nürnberg and books them using Playwright. Supports multiple users, email rotation, and retry logic.
 *Tech-Stack: Python, Playwright, Tkinter, Logging, Threading*
 <!--

@@ -3,7 +3,7 @@
 I'm a full-stack developer mostly working with **C#** and **TypeScript (Angular)**, with the occasional dive into **C++** for game dev experiments.
 
 - 🔭 Currently building websites (including my personal portfolio)
-- 🏢 Recently finished a site for a German company: [klimbimgmbh.de](https://klimbimgmbh.de)
+- 🏢 Recently finished a site for a German staffing company: [klimbimgmbh.de](https://klimbimgmbh.de)
 - 🎮 I love game development but rarely finish the projects I start 😅
 - 🌱 Learning: better architecture patterns and game development (in-depth)
 - 📫 How to reach me: **curseddk14@gmail.com** or through my Website 🌐 [dimitriskgm.me](https://dimitriskgm.me)

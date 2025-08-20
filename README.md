@@ -22,8 +22,10 @@ Personal Portfolio with dark and light mode, smooth animations and a mobilde fri
 *Tech-Stack: Angular, Bootstrap, Javascript and Font Awesome.*
 
 ### 🤖 Car Registration Appointment Catcher (Crawler)
-An automated bot with a Python GUI that checks for available vehicle registration appointments in Nürnberg and books them using Playwright. Supports multiple users, email rotation, and retry logic.
-*Tech-Stack: Python, Playwright, Tkinter, Logging, Threading*
+An automated bot with a Python GUI that checks for available vehicle registration appointments in Nürnberg and books them using Playwright. Supports multiple users, email rotation, and retry logic.  
+*Tech-Stack:*  
+*Started w/: Python, Playwright, Tkinter, Logging, Threading*  
+*Now using: C# to make it into a library and then use Razor Pages for web-overlay or Winforms*
 <!--
 **CursedDK/CursedDK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
